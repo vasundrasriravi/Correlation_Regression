@@ -24,6 +24,9 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 
 
-# Result
+# Output
 
-# Output 
+![Screenshot 2023-10-21 194239](https://github.com/vasundrasriravi/Correlation_Regression/assets/119393983/e23fdcf7-bf9b-46ae-b6f9-6cb538466134)
+
+# Result
+Thus the program is executed successfully.
